@@ -1,4 +1,4 @@
 # Learning
 My first repo
 <br>
-I am going to learn git
+I have learn clone and status 
